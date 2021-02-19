@@ -1,0 +1,13 @@
+.accept {
+    width: 30%;
+}
+
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+
+.navbar-brand>img {
+    padding: 5px 10px;
+}
+
